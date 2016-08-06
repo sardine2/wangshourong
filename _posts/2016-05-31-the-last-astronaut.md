@@ -1,8 +1,10 @@
-﻿ ---
+﻿---
 layout: post
 title:  "最后的宇航员"
-description: 
-image: 
+categories: blog
+description: Jekyll 博客基本使用指南
+image:  
+---
 
 ---
 *这是2016年5月31日写给你的第一篇小说*
