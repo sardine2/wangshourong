@@ -1,10 +1,8 @@
----
+﻿ ---
 layout: post
 title:  "最后的宇航员"
-categories: blog
-description: 关于出差的小说
+description: 
 image: 
----
 
 ---
 *这是2016年5月31日写给你的第一篇小说*
