@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Welcome to Jekyll!"
 categories: blog
@@ -10,6 +10,8 @@ image: boating.jpg
 ## 搭建博客的最小行动方案
 
 最小行动：
+
+ttttttt
 
 1. Fork 主题博客的源码仓库（如果是使用这个模板博客，则是新建仓库，然后从学员仓库主目录中将 3Jekyll 文件夹下的 Jekyll Blog Theme 代码复制过去）
 2. 将博客仓库更名为：yourGitHubName.github.io
