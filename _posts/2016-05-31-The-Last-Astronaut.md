@@ -2,8 +2,8 @@
 layout: post
 title:  "最后的宇航员"
 categories: blog
-description: Jekyll 博客基本使用指南
-image:  
+description: 送给你的第一篇小说
+image:roon.jpg  
 ---
 
 ---
