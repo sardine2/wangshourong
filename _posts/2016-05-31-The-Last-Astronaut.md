@@ -1,12 +1,11 @@
-﻿---
+---
 layout: post
 title:  "最后的宇航员"
 categories: blog
 description: 送给你的第一篇小说
-image:ireland.jpg  
+image: ireland.jpg
 ---
 
----
 *这是2016年5月31日写给你的第一篇小说*
 
 ##最后的宇航员
