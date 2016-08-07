@@ -3,7 +3,7 @@ layout: post
 title:  "最后的宇航员"
 categories: blog
 description: 送给你的第一篇小说
-image:roon.jpg  
+image:ireland.jpg  
 ---
 
 ---
