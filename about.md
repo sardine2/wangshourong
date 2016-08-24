@@ -10,7 +10,7 @@ permalink: /About/
 
 Ehhhh...I built this blog just for you.
 
-I want to wish you happy birthday. It’s the only thing I can do since we are in different cities. You are so important to me, so if someday we have to separate, I hope you will remember these words. That's enought.
+You are so important to me, so if someday we have to separate, I hope you will remember these words. That's enought.
 
 
 —— Sardine2
