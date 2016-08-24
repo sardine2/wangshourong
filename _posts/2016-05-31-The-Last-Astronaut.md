@@ -31,4 +31,4 @@ image: ireland.jpg
 
 -----
 
-相片摄于2013年10月31日爱尔兰Cliffsof Moher。
+相片摄于2013年10月31日爱尔兰Cliffs of Moher。
