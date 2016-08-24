@@ -6,7 +6,7 @@ avatar:           avatar.png # 添加你的头像
 favicon:          favicon.ico # 添加用于显示于浏览器 Tab 上的博客图标
 email:            sardine2@yeah.com
 description: >    # 主题简介，可改为博客描述
-  你是一个意外。
+                   你是一个意外。
 
 url:              "wangshourong.sardine2.com" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "blog" # the subpath of your site, e.g. /blog/
