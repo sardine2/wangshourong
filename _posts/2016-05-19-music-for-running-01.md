@@ -1,6 +1,12 @@
-﻿# music for running 01
+---
+layout: post
+title:  "Music for Running 01"
+categories: blog
+description: 你的跑步音乐之一
+image: music01.jpg
+---
 
- 
+
 
 **播放链接在此：**[music for running 01](http://music.163.com/#/playlist?id=381341437)
 
