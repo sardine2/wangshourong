@@ -4,7 +4,7 @@ title:  "双城赛记"
 categories: blog
 description: 送给你的第1篇小说
 image: blacksea.jpg
- 
+---
 
 题记：为了缓解一个月没怎么训练的本人即将迎接的连续两周拆骨躺尸82K和UTSZ白金60K的焦虑，写了此篇文章 
 
