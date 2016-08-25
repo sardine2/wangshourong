@@ -1,7 +1,9 @@
-﻿# 出差核心力量最小化练习
-
-标签（空格分隔）： 未分类
-
+---
+layout: post
+title:  "出差最小化练习"
+categories: blog
+description: 确保出差时多少能保持练习吧
+image: village.jpg
 ---
 
 
