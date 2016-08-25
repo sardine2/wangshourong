@@ -25,4 +25,4 @@ image: village.jpg
 
 
 
-
+*相片为2015年9月23日摄于尼泊尔Dhole村庄。*
