@@ -1,4 +1,10 @@
-﻿# Music of July(04)
+---
+layout: post
+title:  "Music of July(04)"
+categories: blog
+description: 送给你的跑步音乐之四
+image: music04.jpg
+---
 
  
  
