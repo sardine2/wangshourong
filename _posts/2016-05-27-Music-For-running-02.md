@@ -1,4 +1,10 @@
-﻿# music for running 02
+---
+layout: post
+title:  "Music for Running 02"
+categories: blog
+description: 送给你的跑步音乐之二
+image: music02.jpg
+---
 
  
 
