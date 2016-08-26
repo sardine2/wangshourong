@@ -45,4 +45,3 @@ image: flower.jpg
 写于2016年8月24日午休。            
 相片摄于2013年6月底云南玉龙县白沙镇玉湖村某客栈。雨后。        
 网站就是这个：[Just for you](wangshourong.sardine2.com)
-[bing](bing.com)
