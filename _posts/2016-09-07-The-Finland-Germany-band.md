@@ -16,6 +16,8 @@ Moonsorrow乐队在接受《我爱摇滚乐》杂志采访时回复如果在东�
 
 不清楚这种风格你是否会喜欢，可能你会觉得太吵或者听多了差不多都一个调子。我个人关于金属乐队非常喜欢德国交响金属乐团Haggard，最后会推荐几首。
 
+![曲目](http://7xtcjb.com2.z0.glb.clouddn.com/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20160907160030.jpg)
+
 1.Nightwish乐队两首。该乐队2006年成立于芬兰，以女主唱塔雅美声唱法在众多乐队脱颖而出。Sleeping sun这首简单恬静，较为和缓的女声美声吟唱。She is my sin就显得激烈多了，但总的来说还是旋律性很强，算是比较悦耳。
 
 2.Amberian Dawn的River of Tuoni。乐队2006年成立于芬兰。River of Tuoni一曲讲述的是《卡勒瓦拉》中Lemminkäinen的母亲在冥河中寻找自己儿子残肢的故事。歌剧般咏唱女声也非常美。
