@@ -2,9 +2,9 @@
 layout: post
 title:  "芬兰（及德国）金属乐队"
 categories: blog
-description: 芬兰金属乐队及德国乐队
-image: Newgrange.jpg
---
+description: 芬兰及德国的金属乐队
+image: newgrange.jpg
+---
 
 嗯，我觉得这一辑的音乐用来跑步估计比较难以控制节奏……
 
