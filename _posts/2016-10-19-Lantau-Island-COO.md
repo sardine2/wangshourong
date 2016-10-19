@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title:  "1/2COO"
 categories: blog
-description: 某年某月某日在LantauIsland跑了1/2COO。
+description: 某年某月某日在LantauIsland跑了1/2COO
 image: LantauIsland.jpg
----
+--- 
+
 
 
 一
