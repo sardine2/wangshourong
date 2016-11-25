@@ -3,12 +3,12 @@ layout: post
 title:  "配速530的歌单（06)"
 categories: blog
 description: 可以跑出530配速的音乐
-image: running.
+image: running.jpg
 ---
 
 
 
-**播放链接在此：**[music for running 06]http://music.163.com/playlist/494839861/2429394?userid=2429394)﻿---
+**播放链接在此：**[music for running 06]http://music.163.com/playlist/494839861/2429394?userid=2429394)
  
  
 
@@ -24,14 +24,14 @@ image: running.
 嗯，如果你回去有听那张黑胶，就会稍微有点印象，对，就是第5首。
 事实上这张专辑每首都是经典，不过适合跑步的我想还是这首。表面上欢脱的旋律，衔接严密的乐器人声构架，丰富的层次和大量出彩的音效，以及晦暗的歌词。
 
-4-5. 第四第五首来自香港假音人。很久以前听过的乐队，只需忽略歌词对政治的所指，其实旋律还是蛮好听，节奏也很紧凑，用来跑步也不错呀。
+4. (4-5) 第四第五首来自香港假音人。很久以前听过的乐队，只需忽略歌词对政治的所指，其实旋律还是蛮好听，节奏也很紧凑，用来跑步也不错呀。
 
-6.  **万户的47枚火箭** 来自 WHITE 乐队的同名专辑。如果你有听过之前的 music for running05 这歌单，可能会记得我谈论北京的Carsick Cars乐队时提起的北京新音乐运动NO BEIJING。的发起者，WHITE 乐队的主唱也是Carsick Cars的吉他手兼主唱。乐队成员两人，在07年由德国Einsturzende Neubauten（也是我喜欢的）主唱Blixa Bargeld为乐队在柏林录制了首张专辑。     
+6. **万户的47枚火箭** 来自 WHITE 乐队的同名专辑。如果你有听过之前的 music for running05 这歌单，可能会记得我谈论北京的Carsick Cars乐队时提起的北京新音乐运动NO BEIJING。的发起者，WHITE 乐队的主唱也是Carsick Cars的吉他手兼主唱。乐队成员两人，在07年由德国Einsturzende Neubauten（也是我喜欢的）主唱Blixa Bargeld为乐队在柏林录制了首张专辑。     
 这支乐队风格无法定义，或许可勉强称为迷幻电音？
 
 7. 这首歌叫喜二。用粤语读起来与「起义」同音……嗯，我们还是听音乐吧，毕竟本来就是没歌词的器乐演奏。小提琴拉得很喜悦么。
 
-8-9. 巴赫的十二平均律 Bach:The Well-Tempered Clavier 。意外的非常适合运动呢。              
+8. (8-9) 巴赫的十二平均律 Bach:The Well-Tempered Clavier 。意外的非常适合运动呢。              
 我个人比较喜欢 Glenn Gould 演奏的版本（网易云可以听）。他演奏起来让人感觉比较自由，并不完全依照乐谱，会加入自己的理解，音乐速度也稍会变化，但处理得非常好。但很可惜，那个版本没法购买MP3，我另外找了别的演奏。
 
 10. 继续来一首Joy Division 1995年专辑 **permanen**，主打曲 **Love Will Tear Us Apart** 唱碎了多少文青的心。
