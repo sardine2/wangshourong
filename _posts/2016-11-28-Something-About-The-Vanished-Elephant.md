@@ -29,7 +29,7 @@ $ git log -- graph
 | | Merge branch ' feature-A '                                              
 | |
 
-最后我明白事情的关键在于重新设置系统环境变量： set-location C:\Zoo\Elephant ，似乎可以看到它远去的背影。                                       
+最后我明白事情的关键在于重新设置系统环境变量： set-location C:\JINGZHUHighway\Elephant ，似乎可以看到它远去的背影。                                       
 他们告诉我，想学会用图表形式输出提交日记，必须懂得一系列的逻辑，在 Sunset Date 之前敲出那些千奇百怪的字符，还要有耐心。大小写和空格键也要注意，不然就会造成乱码。                                                                     
 毕竟，象的调度从来不是一件简单的事。                            
 象这种巨型生物，既重又大，一不小心就会弄错。                                  
